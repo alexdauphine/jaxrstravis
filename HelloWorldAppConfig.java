@@ -1,5 +1,3 @@
-package com.ibm.jaxrs.sample;
-
 public class HelloWorldAppConfig extends javax.ws.rs.core.Application {
     public Set<Class<?>> getClasses() {
         Set<Class<?>> classes = new HashSet<Class<?>>();
